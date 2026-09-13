@@ -1,0 +1,10 @@
+{
+  "name": "Solunar Metabolics",
+  "description": "Circadian hormone alignment, solunar ephemeris, celestial dietary phasing, 365-day astronomical orbital transitions, and harmonic tidal intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
